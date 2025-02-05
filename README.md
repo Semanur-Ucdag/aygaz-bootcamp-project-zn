@@ -1,4 +1,4 @@
-# aygaz-bootcamp-project-zn
+# We did this project with my friend Zeynep. Thank you Zeynep
 Bu proje, derin öğrenme tabanlı bir sinir ağı (CNN) modeli kullanarak farklı hayvan türlerini sınıflandırma ve görüntü manipülasyonu sonrası model performansını analiz etmeyi amaçlamaktadır.
 
 Proje Hakkında
